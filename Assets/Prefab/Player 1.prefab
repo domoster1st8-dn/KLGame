@@ -4758,8 +4758,8 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa4c03150b2fd3241afd77b4e64152c1, type: 2}
-  - {fileID: 2100000, guid: fa4c03150b2fd3241afd77b4e64152c1, type: 2}
+  - {fileID: 2100000, guid: bd71c86fb82c2b144a65d4e34ccbfc71, type: 2}
+  - {fileID: 2100000, guid: bd71c86fb82c2b144a65d4e34ccbfc71, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9635,14 +9635,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 423525817}
-  m_LocalRotation: {x: -0.8413941, y: 0.06933424, z: -0.11127211, w: 0.52427787}
+  m_LocalRotation: {x: -0.8089196, y: 0.16004792, z: -0.25685543, w: 0.50404274}
   m_LocalPosition: {x: 0.00038, y: 0.00053, z: 0.00005}
-  m_LocalScale: {x: 0.006001469, y: 0.00600146, z: 0.0060014683}
+  m_LocalScale: {x: 0.005640097, y: 0.005640088, z: 0.011986896}
   m_Children:
   - {fileID: 30849060}
   m_Father: {fileID: 1200755527458909073}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: -119.909, y: -31.421997, z: 27.904007}
+  m_LocalEulerAnglesHint: {x: -132.841, y: -58.039, z: 49.604996}
 --- !u!33 &423525820
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -19495,7 +19495,7 @@ GameObject:
   - component: {fileID: 203331988}
   m_Layer: 3
   m_Name: Player 1
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
